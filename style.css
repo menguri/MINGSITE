@@ -1,0 +1,132 @@
+<style>
+body {
+}
+h1 {
+  height:65px;
+  border-bottom: solid 3px black;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0;
+}
+.main {
+  position: absolute;
+  text-align: center;
+  left:524px;
+  top:120px;
+}
+.main1 {
+  height: 260px;
+}
+.img {
+  border-radius: 70%;
+}
+a {
+  text-decoration: none;
+  color:black;
+}
+#input {
+  font-size: 20px;
+  border:none;
+  background-color: white;
+  outline:0;
+}
+#fade {
+    display: none;
+}
+.fade2 {
+  font-weight: 600;
+  font-size: 18px;
+  list-style: none;
+}
+.Li1{
+  position: absolute;
+  top:160px;
+  left:56px;
+}
+.Li2{
+  position: absolute;
+  top:300px;
+  left:150px;
+}
+.Li3{
+  position: absolute;
+  top:180px;
+  left:850px;
+}
+.Li4{
+  position: absolute;
+  top:460px;
+  left:80px;
+}
+.Li5{
+  position: absolute;
+  top:400px;
+  left:810px;
+}
+.Li6{
+  position: absolute;
+  top:290px;
+  left:900px;
+}
+.Li7{
+  position: absolute;
+  top:470px;
+  left:930px;
+}
+
+.triangle{
+  width:0; height:0;
+  border-left: 1263px solid transparent;
+  border-bottom:550px solid #000 ;
+  position:absolute;
+  top:600px;
+}
+.angle{
+  background-color: black;
+  width:1263px;
+  height:580px;
+  position: absolute;
+  top:1150px;
+}
+
+#MinGu {
+  position: absolute;
+  top:750px;
+  left:200px;
+  weight:500px;
+  font-size: 80px;
+  font-weight: bold;
+}
+#Career {
+  color:white;
+  position: absolute;
+  top:900px;
+  right:250px;
+  font-size: 80px;
+  font-weight: bold;
+}
+.genius {
+  color:white;
+  font-size: 40px;
+  position: absolute;
+  top:1400px;
+  left:550px;
+}
+.insta {
+  position: absolute;
+  top:25px;
+  right:50px;
+}
+@media(max-width:800px) {
+.main {
+  position: absolute;
+  text-align: center;
+  left:200px;
+  top:165px;
+}
+.a {
+ color:black;
+ text-decoration: none;
+}
+}
+</style>
